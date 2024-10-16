@@ -16,4 +16,4 @@ Michael Hollingsworth
 - [Understanding map coordinates](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
 
 ## Raster Data Analysis
-- [Band Composition for Landsat](
+- [Band Composition for Landsat](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/raster-data-analysis/band-composition-for-landsat.ipynb)
