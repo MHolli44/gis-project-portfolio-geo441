@@ -19,5 +19,5 @@ Michael Hollingsworth
 - [Band Composition for Landsat](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/raster-data-analysis/band-composition-for-landsat.ipynb)
 
 ## Vector Data Analysis
-- [Buffers & Heatmap]([https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/Buffers%20%26%20Heatmap])
+- [Buffers & Heatmap](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/Buffers%20%26%20Heatmap).
 
