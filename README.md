@@ -22,4 +22,4 @@ Michael Hollingsworth
 - [Buffers & Heatmap](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/spatial_analysis/Buffers%20%26%20Heatmaps).
 
 ## Creating 3D features with multipatch texture
-- [The_World_in_3D:_SF_Embarcadero_Modeling]([https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/spatial_analysis/Buffers%20%26%20Heatmaps](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/Creating_3D_features_with_multipatch_texture/The_World_in_3D%3A_SF_Embarcadero_Modeling.ipynb)).
+- [The_World_in_3D:_SF_Embarcadero_Modeling](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/Creating_3D_features_with_multipatch_texture/The_World_in_3D%3A_SF_Embarcadero_Modeling.ipynb).
