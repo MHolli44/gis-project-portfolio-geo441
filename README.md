@@ -25,5 +25,5 @@ Michael Hollingsworth
 - [The World in 3D: SF Embarcadero Modeling](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/Creating%203D%20features%20with%20multipatch%20texture/The%20World%20in%203D%3A%20SF%20Embarcadero%20Modeling.ipynb).
 
 - ## Web-based Mapping
-- [Explore the 1854 Cholera Outbreak in London](https://miamioh.maps.arcgis.com/home/item.html?id=d0b8c7720c6a406ea50881828fd7f95c).
+- [Explore the 1854 Cholera Outbreak in London](https://miamioh.maps.arcgis.com/apps/mapviewer/index.html?webmap=d0b8c7720c6a406ea50881828fd7f95c).
 
