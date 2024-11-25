@@ -20,6 +20,7 @@ Michael Hollingsworth
 
 ## Spatial Analysis
 - [Heat Maps & Buffers](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/spatial_analysis/Heat%20Maps%20%26%20Buffers.ipynb).
+- [Males_in_Ohio_with_Health_Insurance](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/spatial_analysis/Males_in_Ohio_with_Health_Insurance.ipynb).
 
 ## Creating 3D features with multipatch texture
 - [The World in 3D: SF Embarcadero Modeling](https://github.com/MHolli44/gis-project-portfolio-geo441/blob/main/Creating%203D%20features%20with%20multipatch%20texture/The%20World%20in%203D%3A%20SF%20Embarcadero%20Modeling.ipynb).
